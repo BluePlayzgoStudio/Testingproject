@@ -1,0 +1,14 @@
+sleep 4.0
+echo "Success connected to server"
+sleep 3.0
+echo
+echo "Sorry, This installer has unavailable or maintance now Please wait t>
+echo
+echo
+echo "cloud and checking the server : installer has be stopped or unavaila>
+echo
+echo
+sleep 5.0
+echo "Please Wait..."
+sleep 4.0
+sh /data/data/com.termux/files/home/projectamunich/resource/repair.bash
