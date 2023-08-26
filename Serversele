@@ -1,0 +1,14 @@
+figlet "Change Installer Server"
+echo
+echo "Your Default Installer is Singapore/tokyo (asia)!"
+echo
+echo "1.Germany (Europe)"
+echo "2.Singapore/Tokyo (Asia)"
+echo "3.New Mexico/New York (North America)"
+echo "4.Public Testing (Indonesia Server)"
+echo
+echo
+echo "Type Number in top to change server installer!"
+read -p "Choose Server: " server
+
+echo "Sorry This Command Has Disable Now!"
