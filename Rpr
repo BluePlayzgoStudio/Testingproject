@@ -1,0 +1,14 @@
+clear
+echo "Change back to default settings...."
+echo
+echo "this will not take some effect!"
+rm -f /data/data/com.termux/files/usr/projecta
+rm -f /data/data/com.termux/files/usr/rexaproject
+sleep 7.0
+clear
+echo "done!"
+echo "we will return you to default menu!"
+figlet "Goodbye!"
+echo "see you again!"
+sleep 1.0
+bash
